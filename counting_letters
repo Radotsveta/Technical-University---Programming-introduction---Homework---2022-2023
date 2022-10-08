@@ -4,6 +4,4 @@ letters_num = 0
 for letter in some_text:
     if letter.isalpha():
         letters_num += 1
-    else:
-        continue
 print(letters_num)
