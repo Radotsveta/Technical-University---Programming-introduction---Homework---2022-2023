@@ -1,0 +1,7 @@
+some_text = input()
+letters_num = 0
+
+for letter in some_text:
+    if letter.isalpha():
+        letters_num += 1
+print(letters_num)
