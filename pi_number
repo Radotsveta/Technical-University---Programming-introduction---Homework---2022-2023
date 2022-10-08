@@ -1,0 +1,6 @@
+import math
+
+some_num = float(input())
+some_num = math.pi
+
+print(some_num)
